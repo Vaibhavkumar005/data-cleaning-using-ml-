@@ -23,4 +23,4 @@ dataset.shape
 (dataset.isnull().sum().sum()/(dataset.shape[0]*dataset.shape[1]))*100
 sns.heatmap(dataset.isnull())
 plt.show()
-#this is the intro part or code for data cleaning 
+#this is the intro part or code for data cleaning new 
