@@ -4,7 +4,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt 
 import kagglehub
-#nw
+#new one 
 
 # Download latest version
 path = kagglehub.dataset_download("himelsarder/retail-product-dataset-with-missing-values")
